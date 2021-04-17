@@ -17,4 +17,4 @@ Visit the [Original Project Page](https://scratch.mit.edu/projects/516206682)
 
 [Github Repo](https://github.com/raghav664/Soccer-3)
 
-https://www.raghav664.github.io/Soccer-3
+https://raghav664.github.io/Soccer-3
