@@ -4,6 +4,7 @@ Hello, I am very happy to announce the grand Soccer 3.0 beta 1. This repo will h
 ### --------------------------------------------------------- ***INSTRUCTIONS TO PLAY*** --------------------------------------------------------
 
 **Player 1 - W,A,S,D KEYS**
+
 **Player 2 - UP,LEFT,DOWN,RIGHT KEYS**
 
 **TRY TO THROW THE BALL INTO THE GOAL. THE BALL DOESN'T NEED TO BE KICKED AS IT BOUNCES OFF WHEN THE PLAYER TOUCHES IT.**
